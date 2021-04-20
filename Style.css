@@ -1,0 +1,93 @@
+.header{
+	background-color: #DC143C;
+	height: 170px;
+	text-align: center; 
+	color: white;
+	padding: 40px; 
+}
+.contentHome{
+	background-color: #FFF8DC;
+	text-align: center;
+	color: black; 
+	width: 80%
+	margin: 0 auto;
+	padding: 50px 450px; 
+}
+.contentAbout{
+	background-color: #FFF8DC;
+	text-align: center;
+	color: black; 
+	width: 80%
+	margin: 0 auto;
+	padding: 50px 450px; 
+}
+.contentVideo{
+	background-color: #FFF8DC;
+	text-align: center;
+	color: black; 
+	width: 80%
+	margin: 0 auto;
+	padding: 50px 450px; 
+}
+.contentContact{
+	background-color: #FFF8DC;
+	text-align: center;
+	color: black; 
+	width: 80%
+	margin: 0 auto;
+	padding: 50px 450px; 
+}
+.footer{
+	background-color: #8B0000;
+	height: 200px;
+	text-align: center;
+	color: white;
+	padding: 30px 450px 15px; 
+}
+menu {
+
+	background-color: #320c75;
+}
+li {
+	display: inline-block;
+	padding: 30px 70px;
+}
+li:hover{
+background-color: #F08080;
+color: black;
+}
+img{
+	padding: 0px 10px;
+}
+
+.post{
+		display: flex;
+}
+.box {
+		background-color: #AFEEEE; 
+		flex-grow: 1;
+		padding: 15px;
+		margin: 10px; 
+		border-radius: 10px;
+}
+.box1 {
+		background-color: #AFEEEE; 
+		flex-grow: 1;
+		padding: 15px;
+		margin: 10px; 
+		border-radius: 10px;
+}
+.box2 {
+		background-color: #FFB6C1; 
+		flex-grow: 1;
+		padding: 15px;
+		margin: 10px; 
+		border-radius: 10px;
+}
+.box3 {
+		background-color: #90EE90; 
+		flex-grow: 1;
+		padding: 15px;
+		margin: 10px; 
+		border-radius: 10px;
+}
